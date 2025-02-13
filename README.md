@@ -29,7 +29,7 @@ Run these commands in Kali Linux to install required libraries:
 
 ### Step 3: Usage Examples
 
-### 1. **Port Scanning**
+###  **Port Scanning**
 -	**TCP Connect Scan** (requires no root):
   ```bash
 
@@ -37,14 +37,14 @@ Run these commands in Kali Linux to install required libraries:
    ( Python3 net_tool.py scan -t 192.168.1.1 -p 1-100 -s connect )
   ```
 
-### 2. SYN Scan** (requires root privileges):
+### **SYN Scan** (requires root privileges):
   ```bash
 
       run this command
   ( Sudo python3 net_tool.py scan -t 192.168.1.1 -p 1-100 -s syn )
   ```
 
-#### 3. **Directory Bruteforcing**
+#### **Directory Bruteforcing**
 ```bash
 
       run this command
