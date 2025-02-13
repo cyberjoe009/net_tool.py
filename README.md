@@ -7,7 +7,7 @@ Below is a Python-based tool inspired by **Nmap** and basic application scanning
 3. **Directory brute-forcing** (similar to Dirbuster).
 
 
-###Step 1: Install Dependencies
+### Step 1: Install Dependencies
 Run these commands in Kali Linux to install required libraries:
 ```bash
 
